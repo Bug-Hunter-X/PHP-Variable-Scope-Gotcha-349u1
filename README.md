@@ -1,0 +1,1 @@
+This example demonstrates a common error related to variable scope in PHP. The code is designed to illustrate a scenario where an 'Undefined variable' error might occur, and the solution provides a way to fix it.  This is a subtle error, often missed by developers.  The solution highlights best practices for avoiding scope-related issues.
